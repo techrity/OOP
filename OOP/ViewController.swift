@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         //testing
         // Do any additional setup after loading the view.
     }
+    
+    func print(){
+        
+    }
 
 
 }
