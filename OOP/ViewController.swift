@@ -14,12 +14,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         //testing
         // Do any additional setup after loading the view.
-    }
-    
-    func print(){
         
+        print("this is my first update")
+        print("this is my second update")
+        
+        func sum(){
+            
+        }
     }
-
 
 }
 
